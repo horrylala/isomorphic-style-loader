@@ -1,4 +1,5 @@
-<img width="150" height="150" align="right" src="https://raw.githubusercontent.com/kriasoft/isomorphic-style-loader/8fe56ef8fba794e00bfbc9b6d731edf0f572d4e7/logo.png" />
+> A frok repo from [kriasoft/isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader),to compitable with react18 (greater than react 16.8)
+<img width="150" height="150" align="right" src="https://raw.githubusercontent.com/kriasoft/isomorphic-style -loader/8fe56ef8fba794e00bfbc9b6d731edf0f572d4e7/logo.png" />
 
 # Isomorphic CSS style loader for [Webpack](http://webpack.github.io)
 
