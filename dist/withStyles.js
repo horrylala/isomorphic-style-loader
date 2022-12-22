@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@horrylala 
-horrylala
-/
-isomorphic-style-loader
-Public
-forked from kriasoft/isomorphic-style-loader
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-isomorphic-style-loader/dist/withStyles.js /
-@dazlious
-dazlious v.5.3.2
-Latest commit c920f94 on Aug 26, 2021
- History
- 3 contributors
-@dazlious@koistya@frenzzy
-121 lines (96 sloc)  3.43 KB
-
 /*! Isomorphic Style Loader | MIT License | https://github.com/kriasoft/isomorphic-style-loader */
 
 'use strict';
