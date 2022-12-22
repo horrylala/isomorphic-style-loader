@@ -34,15 +34,16 @@ function withStyles(...styles) {
     }
 
     const displayName = ComposedComponent.displayName || ComposedComponent.name || 'Component'
-
-    WithStyles.propTypes = {
-      __$$withStylesRef: PropTypes.oneOfType([
-        PropTypes.func,
-        PropTypes.shape({
-          current: PropTypes.instanceOf(typeof Element === 'undefined' ? Function : Element),
-        }),
-      ]),
-    }
+    
+    // todo: propTypes may not correct
+    // WithStyles.propTypes = {
+    //   __$$withStylesRef: PropTypes.oneOfType([
+    //     PropTypes.func,
+    //     PropTypes.shape({
+    //       current: PropTypes.instanceOf(typeof Element === 'undefined' ? Function : Element),
+    //     }),
+    //   ]),
+    // }
 
     WithStyles.defaultProps = {
       __$$withStylesRef: undefined,
